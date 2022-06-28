@@ -298,10 +298,12 @@ ul {
 .text-box-title >.text {
     margin-bottom: 30px;
 }
+/* Footer */
 footer {
     background-color: var(--color-background);
    
 }
+/* footer padding */
 .footer{
     padding-top: 60px;
     padding-bottom: 60px;
