@@ -163,10 +163,12 @@ ul {
 
 
 .hero-section{
-    
+    display: block;
+    width: 1600px;
     padding-top: 200px;
     padding-bottom: 200px;
-    display:block;
+    margin: 0 auto;
+    
     text-align: center;
     background-color: var(--color-background);
 
@@ -305,7 +307,10 @@ footer {
    
 }
 
-.footer{
+.footer{ 
+    display: block;
+    width: 1600px;
+    margin: 0 auto;
     padding-top: 60px;
     padding-bottom: 60px;
 }
